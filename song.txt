@@ -5,4 +5,7 @@ on this their chosen battlefield
 dsfsd
 sdfsdf
 sdfsdf
+<<<<<<< HEAD
 dsf
+=======
+>>>>>>> 790f0724cb0983b378419e9f7f9728a334a5e15e
